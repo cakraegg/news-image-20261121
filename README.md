@@ -1,8 +1,8 @@
 # News Image — Saturday 21 November 2026
 
-[![Competition](https://make.fun/competitions/news-image-20261121/badge)](https://make.fun/competitions/news-image-20261121)
-[![Leaderboard](https://make.fun/competitions/news-image-20261121/leaderboard/badge)](https://make.fun/competitions/news-image-20261121/leaderboard)
-[![Entrant](https://make.fun/u/cakraegg/badge)](https://make.fun/u/cakraegg)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/cakraegg/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/cakraegg/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One image that sums up the world news of Saturday 21 November 2026: a map
 with the day's stories pinned to it, numbered news briefs, a timeline of the
